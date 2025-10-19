@@ -8,7 +8,9 @@
 - Kubernetes' added features like auto-scaling, auto-healing, and cluster capabilities.
 05:15 📊 Covers the main components of the Kubernetes architecture.
 - Detailed breakdown of the Kubernetes control plane components.
+- (e.g,Api Server, Sheduler,controller manager,c-cm,etcd)
 - Explanation of the Kubernetes data plane components.
+- (e.g kubelet,kube proxy, container manager)
 10:31 🌐 Contrasts Docker Swarm with Kubernetes.
 - Kubernetes is preferred for large and mid-sized organizations.
 - Docker Swarm is suitable for small-scale or simpler applications.
